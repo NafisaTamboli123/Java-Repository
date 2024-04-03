@@ -7,10 +7,10 @@ public class FirstApp {
 	{
 	System.out.println("This is M1 method");
 	}
-	public void m1()
+	public void m2()
 
 	{
-	System.out.println("This is M1 method");
+	System.out.println("This is M2 method");
 	}
 
 			
